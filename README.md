@@ -9,7 +9,7 @@ Steps performed:
 1. Started with an image of person without mask
 2. Apply face detection to compute the bounding box location of face
 3. Extracted face region of interest
-4. Getting image of a mask, and align it on top of the face properly
+4. Getting image of a mask, and align it on top of the face properly (created artificial dataset)
 5. Repeating the steps for multiple images
 
 
