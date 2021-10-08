@@ -5,7 +5,7 @@ Techniques used to create images:
 2. Creating a custom CV script to add face masks on them
 
 Usually we infer the location of facial structures such as Eyes, Eyebrows, Nose, Mouth, Jawline, Moustache,etc.
-Steps:
+Steps performed:
 1. Started with an image of person without mask
 2. Apply face detection to compute the bounding box location of face
 3. Extracted face region of interest
