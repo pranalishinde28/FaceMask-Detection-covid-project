@@ -1,4 +1,4 @@
-# FaceMask-Detection-covid-project
+# FaceMask-Detection
 
 Techniques used to create images:
 1. Taking normal images of faces
